@@ -1,0 +1,15 @@
+h1{
+    color:red;
+}
+
+h2{
+    color:blue;
+}
+
+body{
+    background-color: aquamarine;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+}
